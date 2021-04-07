@@ -1,1 +1,4 @@
-brave-ledger-verification=0e5e9be6d9a40ff3da74315f3ba41383a3a5f9ec0a83c2040b78eb77543ab3582721ea
+This is a Brave Rewards publisher verification file.
+
+Domain: github.com
+Token: 55c417d27e5e22e0e1a6b2f89ab32df92e1c3765d1af9d80e00e7be8d1edd46a
